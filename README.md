@@ -1,3 +1,12 @@
+# Sobre mi persona:
+¡Soy @emercadogarcia y mi pasión es transformar datos en valor!  Actualmente, como Coordinador de Desarrollo en Promedical SA, me encargo de personalizar y monitorear el ERP Libra de @Edisa.  
+ 
+Mis tareas incluyen:
+Gestión integral de todos los registros de la empresa (compras, ventas, devoluciones, almacenes).
+Conexión de datos con la contabilidad para una visión financiera completa.
+Optimización de procesos y mejora continua del sistema. 
+¡Contáctame para conocer más sobre mis proyectos! #programación #datos #ERP #desarrollo
+
 ## Resumen Completo de la Página Web de la Cuenta Regresiva Navideña
 
 ### Estructura General
