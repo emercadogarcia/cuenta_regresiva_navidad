@@ -896,7 +896,7 @@ body ul, body li {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 90px;
+  font-size: 150px;
 }
 .countdownSection .container .counterWrapper .countdown {
   display: flex;
@@ -915,7 +915,7 @@ body ul, body li {
   align-content: center;
   width: 240px;
   margin: 10px;
-  font-size: 180px;
+  font-size: 100px;
   line-height: 120px;
   background-image: url(https://firebasestorage.googleapis.com/v0/b/fotos-3cba1.appspot.com/o/navidad%2Fpattern-1.png?alt=media&token=e62eb3c2-bea0-49ae-a398-ab426f5605c1);
   background-clip: text;
